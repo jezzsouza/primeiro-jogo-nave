@@ -1,3 +1,5 @@
-# primeiro-jogo-nave
+# primeiro-jogo-
+
 Projeto DIO Criando primeiro jogo nave "Resgate".
-Gostou muito de fazer o jogo, quero aprender mais e evoluí-lo
+
+Gostei muito de fazer o jogo, quero aprender mais e melhora-lo.
